@@ -58,7 +58,7 @@ export default function App() {
         <div className="calculate_wrap">
         <div className="calculate_center">
           <div className="calculate_amount">
-            Publish value
+            My Title
           </div>
           <p className="calculate_text">
             <input type="text" value={value} id="text" className="calculate_input"></input>

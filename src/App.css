@@ -1,6 +1,7 @@
 body {
-  background: #fff;
+  background: #FFF;
   margin: 0;
+  /* background-image: linear-gradient(to right, rgb(212, 212, 153) , rgb(212, 212, 153)); */
 }
 
 .calculate{
